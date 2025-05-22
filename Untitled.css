@@ -1,0 +1,62 @@
+
+  body { font-family: Arial, sans-serif; margin: 20px; }
+  .input-section { margin-bottom: 50px; }
+  .input-section label { display: block; margin-top: 10px; }
+  .input-section input, .input-section textarea { width: 100%; padding: 10px; margin-top: 5px; }
+  .btn { margin-top: 10px; padding: 8px 12px; }
+  #skills-container input, #education-container input { margin-bottom: 5px; }
+  #preview { border: 1px solid #333; padding: 20px; margin-top: 20px; }
+  #preview h1 { margin-bottom: 5px; }
+  #preview img { float: right; max-width: 120px; margin-left: 10px; }
+  #preview h2 { margin-top: 20px; margin-bottom: 5px; }
+  #preview ul { margin-top: 5px; }
+  #preview .info { margin-top: 5px; }
+  .inputa{
+      padding: 10px 15px;
+      border: 2px solid #00955c;      /* Green border */
+      border-radius: 8px;             /* Rounded corners */
+      background-color: #e5ffe5;      /* Light green background */
+      color: #333;                    /* Text color */
+      font-size: 16px;
+      outline: none;
+      transition: all 0.3s ease;
+    }
+
+    .inputa:focus {
+      border-color: #2e8b57;          /* Darker green on focus */
+      box-shadow: 0 0 5px #2e728b;    /* Glow effect */
+      background-color: #e6ffe6;
+    }
+    .inputb{
+      padding: 10px 15px;
+      border: 2px solid #239bf7;      /* Green border */
+      border-radius: 8px;             /* Rounded corners */
+      background-color: #00b5e8;      /* Light green background */
+      color: #333;                    /* Text color */
+      font-size: 16px;
+      outline: none;
+      transition: all 0.3s ease;
+    }
+
+    .inputb:focus {
+      border-color: #008fb0;          /* Darker green on focus */
+      box-shadow: 0 0 5px #2e728b;    /* Glow effect */
+      background-color: #e6faff;
+    }
+     .inputc{
+      padding: 10px 15px;
+      border: 2px solid #239bf7;      /* Green border */
+      border-radius: 8px;             /* Rounded corners */
+      background-color: #00b5e8;      /* Light green background */
+      color: #333;                    /* Text color */
+      font-size: 16px;
+      outline: none;
+      transition: all 0.3s ease;
+    }
+
+    .inputc:focus {
+      border-color: #008fb0;          /* Darker green on focus */
+      box-shadow: 0 0 5px #2e728b;    /* Glow effect */
+      background-color: #e6faff;
+    }
+    
